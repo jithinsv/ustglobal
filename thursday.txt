@@ -1,2 +1,4 @@
 thursday1
 thursday2
+day1
+day2
